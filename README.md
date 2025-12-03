@@ -7,12 +7,21 @@ https://facebook.com/groups/1623074358676640/
 
 TOOL 🔥 
 apt update 
+
 apt upgrade 
+
 pkg install git
+
 pkg install python 
+
 pip install bs4 
+
 pip install pycurl 
+
 pip install requests 
+
 git clone https://github.com/IshQkhan/KING.git
+
 cd KING
+
 python RAJA.py
